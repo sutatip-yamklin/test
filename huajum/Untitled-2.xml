@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!DOCTYPE address[
+<!ELEMENT address (name,company,phone)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>]>
+<contact-info>
+   <address category = "residence">
+      <name>Tanmay Patil</name>
+      <company>TutorialsPoint</company>
+      <phone>(011) 123-4567</phone>
+   </address>
+   <address category = "shop">
+      <name>starbuck Salaya</name>
+      <company>starbuck PIC</company>
+      <phone>01234567</phone>
+   </address>
+</contact-info>

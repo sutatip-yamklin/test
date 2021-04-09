@@ -1,0 +1,55 @@
+{
+	"Huajum": [{"Profile":{
+			"-ID": "620710407",
+			"Name": "Phetcharat",
+			"LastName": "Suk-ubon",
+			"NickName": "Phet",
+			"Date Of Birth": "31/08/2000",
+			"Major": "Data-sci",
+			"Phone Number": "098-0291600",
+			"Schedule": {
+				"Monday": ["Getting and Cleaning Data"],
+				"Tuesday": ["Propbability For Data Scientists", "Web Technology"],
+				"Wednesday": ["Propbability For Data Scientists", "Computational Methods For Data Scientist", "Communicative English"],
+				"Thursday": ["Introduction  To Big Data Processing", "Nature Appreciation"],
+				"Friday": null
+			}
+		}
+
+		},
+		{"Profile":{
+			"-ID": "620710408",
+			"Name": "Sutatip",
+			"LastName": "Yamklin",
+			"NickName": "Saiparn",
+			"Date Of Birth": "16/06/2000",
+			"Major": "Data-sci",
+			"Phone Number": "097-0035243",
+			"Schedule": {
+				"Monday": ["Getting and Cleaning Data"],
+				"Tuesday": ["Propbability For Data Scientists", "Web Technology"],
+				"Wednesday": ["Propbability For Data Scientists", "Computational Methods For Data Scientist", "Communicative English"],
+				"Thursday": ["Introduction  To Big Data Processing", "Nature Appreciation"],
+				"Friday": null
+			}
+		}
+		},
+		{"Profile":{
+			"-ID": "620710485",
+			"Name": "Chonticha",
+			"LastName": "Yasri",
+			"NickName": "Cake",
+			"Date Of Birth": "02/07/1999",
+			"Major": "Data-sci",
+			"Phone Number": "097-0385547",
+			"Schedule": {
+				"Monday": ["Getting and Cleaning Data"],
+				"Tuesday": ["Propbability For Data Scientists", "Web Technology"],
+				"Wednesday": ["Propbability For Data Scientists", "Computational Methods For Data Scientist", "Communicative English"],
+				"Thursday": ["Introduction  To Big Data Processing", "Nature Appreciation"],
+				"Friday": null
+			}
+		}
+	}
+	]
+}

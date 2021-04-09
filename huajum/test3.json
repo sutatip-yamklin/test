@@ -1,0 +1,18 @@
+{
+  "contact-info": {
+    "address": [
+      {
+        "-category": "residence",
+        "name": "Tanmay Patil",
+        "company": "TutorialsPoint",
+        "phone": "(011) 123-4567"
+      },
+      {
+        "-category": "shop",
+        "name": "starbuck Salaya",
+        "company": "starbuck PIC",
+        "phone": "01234567"
+      }
+    ]
+  }
+}
